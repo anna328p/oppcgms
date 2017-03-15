@@ -1,0 +1,16 @@
+onByDefault:
+  chat: true
+  signs: true
+statusInMotd:
+  chat:
+    enabled: false
+    messages:
+      enabled: Markdown in chat is currently §aenabled§r for you.
+      disabled: Markdown in chat is currently §cdisabled§r for you.
+  signs:
+    enabled: false
+    messages:
+      enabled: Markdown in signs is currently §aenabled§r for you.
+      disabled: Markdown in signs is currently §cdisabled§r for you.
+informPlayersOfChangeByOp: true
+containDisallowedFeaturesInStatus: true
